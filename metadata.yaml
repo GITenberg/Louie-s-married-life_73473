@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '9704'
     url: http://www.gutenberg.org/2009/agents/9704
     wikipedia: https://en.wikipedia.org/wiki/William_Rainey
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doudney, Sarah
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33217
     wikipedia: https://en.wikipedia.org/wiki/Sarah_Doudney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73473#Louie-s-married-life
 gutenberg_issued: '2024-04-26'
 gutenberg_type: Text
 identifiers:
